@@ -1,0 +1,5 @@
+{
+    "workbench.editor.defaultBinaryEditor": "imagePreview.previewEditor",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true
+}
