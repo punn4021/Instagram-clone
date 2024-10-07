@@ -18,8 +18,4 @@ $instagram, $youtube, $facebook, $twitter, $website, $mobile, $tags);
       echo json_encode($array);
     }
 
-# We use this payload to bypass filter :
-# Payload : 
-
-"onmouseover=" alert(document.cookie)
             
